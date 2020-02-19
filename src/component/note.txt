@@ -1,0 +1,14 @@
+
+npm install @react-native-community/async-storage
+npm install react-native-linear-gradient
+npm install react-navigation
+npm install react-navigation-stack
+npm install react-navigation-material-bottom-tabs
+npm install react-native-gesture-handler
+npm install react-native-safe-area-context
+npm install react-native-paper
+npm install @react-native-community/masked-view
+npm install react-native-vector-icons
+
+npm install react-native-screens --save
+expo install expo-linear-gradient( Using: import {LinearGradient} from 'expo-linear-gradient' )
